@@ -76,6 +76,8 @@
       - [musThemeP.ogg](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Ambience%20&%20Music/Music/Menu/musThemeP.ogg)
 - [Environment](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment) /
   - [Areas](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas) /
+    - [2 - Sewers](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/2%20-%20Sewers) / [sndSewerDrip.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/2%20-%20Sewers/sndSewerDrip.wav)
+    - [3 - Scrapyard](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/3%20-%20Scrapyard) / [Fire Trap](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/3%20-%20Scrapyard/Fire%20Trap) / [sndFiretrap.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/3%20-%20Scrapyard/Fire%20Trap/sndFiretrap.wav)
     - [101 - Oasis](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/101%20-%20Oasis) /
       - [sndOasisChest.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/101%20-%20Oasis/sndOasisChest.wav)
       - [sndOasisCrabAttack.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/101%20-%20Oasis/sndOasisCrabAttack.wav)
@@ -96,8 +98,6 @@
         - [sndCuzOpen.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/107%20-%20Crib/Cuz/sndCuzOpen.wav)
         - [sndCuzOutaway.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/107%20-%20Crib/Cuz/sndCuzOutaway.wav)
         - [sndCuzWep.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/107%20-%20Crib/Cuz/sndCuzWep.wav)
-    - [2 - Sewers](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/2%20-%20Sewers) / [sndSewerDrip.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/2%20-%20Sewers/sndSewerDrip.wav)
-    - [3 - Scrapyard](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/3%20-%20Scrapyard) / [Fire Trap](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/3%20-%20Scrapyard/Fire%20Trap) / [sndFiretrap.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/3%20-%20Scrapyard/Fire%20Trap/sndFiretrap.wav)
     - [sndHalloweenWolf.ogg](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/sndHalloweenWolf.ogg)
     - [sndLastEnemy.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/sndLastEnemy.wav)
     - [Unused](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/Unused) / [sndAreaLoaded.wav](https://github.com/Yokinman/Nuclear-Throne-Sounds/tree/main/Environment/Areas/Unused/sndAreaLoaded.wav)
