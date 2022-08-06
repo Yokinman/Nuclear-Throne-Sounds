@@ -134,11 +134,11 @@
 
 [Environment](Environment) /
 
+> - [sndHalloweenWolf.ogg](Environment/Areas/sndHalloweenWolf.ogg)
+> - [sndLastEnemy.wav](Environment/Areas/sndLastEnemy.wav)
+> 
 > [Areas](Environment/Areas) /
 > 
-> > - [sndHalloweenWolf.ogg](Environment/Areas/sndHalloweenWolf.ogg)
-> > - [sndLastEnemy.wav](Environment/Areas/sndLastEnemy.wav)
-> > 
 > > [2 - Sewers](Environment/Areas/2%20-%20Sewers) / [sndSewerDrip.wav](Environment/Areas/2%20-%20Sewers/sndSewerDrip.wav)
 > > 
 > > [3 - Scrapyard](Environment/Areas/3%20-%20Scrapyard) / [Fire Trap](Environment/Areas/3%20-%20Scrapyard/Fire%20Trap) / [sndFiretrap.wav](Environment/Areas/3%20-%20Scrapyard/Fire%20Trap/sndFiretrap.wav)
