@@ -687,11 +687,11 @@
 > > > 
 > > > [Mimics](Environment/Creatures%20&%20Props/Enemies/Mimics) /
 > > > 
-> > > - [sndHPMimicTaunt.wav](Environment/Creatures%20&%20Props/Enemies/Mimics/sndHPMimicTaunt.wav)
-> > > - [sndMimicDead.wav](Environment/Creatures%20&%20Props/Enemies/Mimics/sndMimicDead.wav)
-> > > - [sndMimicHurt.wav](Environment/Creatures%20&%20Props/Enemies/Mimics/sndMimicHurt.wav)
-> > > - [sndMimicMelee.wav](Environment/Creatures%20&%20Props/Enemies/Mimics/sndMimicMelee.wav)
-> > > - [sndMimicSlurp.wav](Environment/Creatures%20&%20Props/Enemies/Mimics/sndMimicSlurp.wav)
+> > > > - [sndHPMimicTaunt.wav](Environment/Creatures%20&%20Props/Enemies/Mimics/sndHPMimicTaunt.wav)
+> > > > - [sndMimicDead.wav](Environment/Creatures%20&%20Props/Enemies/Mimics/sndMimicDead.wav)
+> > > > - [sndMimicHurt.wav](Environment/Creatures%20&%20Props/Enemies/Mimics/sndMimicHurt.wav)
+> > > > - [sndMimicMelee.wav](Environment/Creatures%20&%20Props/Enemies/Mimics/sndMimicMelee.wav)
+> > > > - [sndMimicSlurp.wav](Environment/Creatures%20&%20Props/Enemies/Mimics/sndMimicSlurp.wav)
 > > > 
 > > > [Robots](Environment/Creatures%20&%20Props/Enemies/Robots) /
 > > > 
