@@ -136,6 +136,9 @@
 
 > [Areas](Environment/Areas) /
 > 
+> > - [sndHalloweenWolf.ogg](Environment/Areas/sndHalloweenWolf.ogg)
+> > - [sndLastEnemy.wav](Environment/Areas/sndLastEnemy.wav)
+> > 
 > > [2 - Sewers](Environment/Areas/2%20-%20Sewers) / [sndSewerDrip.wav](Environment/Areas/2%20-%20Sewers/sndSewerDrip.wav)
 > > 
 > > [3 - Scrapyard](Environment/Areas/3%20-%20Scrapyard) / [Fire Trap](Environment/Areas/3%20-%20Scrapyard/Fire%20Trap) / [sndFiretrap.wav](Environment/Areas/3%20-%20Scrapyard/Fire%20Trap/sndFiretrap.wav)
@@ -156,23 +159,22 @@
 > > 
 > > [107 - Crib](Environment/Areas/107%20-%20Crib) / [Cuz](Environment/Areas/107%20-%20Crib/Cuz) /
 > > 
-> > > - [sndCuzBye.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzBye.wav)
-> > > - [sndCuzCry.ogg](Environment/Areas/107%20-%20Crib/Cuz/sndCuzCry.ogg)
-> > > - [sndCuzGreet.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzGreet.wav)
-> > > - [sndCuzHorn.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzHorn.wav)
-> > > - [sndCuzOpen.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzOpen.wav)
-> > > - [sndCuzOutaway.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzOutaway.wav)
-> > > - [sndCuzWep.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzWep.wav)
-> > 
-> > [sndHalloweenWolf.ogg](Environment/Areas/sndHalloweenWolf.ogg)
-> > [sndLastEnemy.wav](Environment/Areas/sndLastEnemy.wav)
+> > - [sndCuzBye.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzBye.wav)
+> > - [sndCuzCry.ogg](Environment/Areas/107%20-%20Crib/Cuz/sndCuzCry.ogg)
+> > - [sndCuzGreet.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzGreet.wav)
+> > - [sndCuzHorn.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzHorn.wav)
+> > - [sndCuzOpen.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzOpen.wav)
+> > - [sndCuzOutaway.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzOutaway.wav)
+> > - [sndCuzWep.wav](Environment/Areas/107%20-%20Crib/Cuz/sndCuzWep.wav)
 > > 
 > > [Unused](Environment/Areas/Unused) / [sndAreaLoaded.wav](Environment/Areas/Unused/sndAreaLoaded.wav)
 > 
 > [Chests & Pickups](Environment/Chests%20&%20Pickups) /
 > 
 > > [Chests](Environment/Chests%20&%20Pickups/Chests) /
-> > 
+> >  
+> > > - [sndChest.wav](Environment/Chests%20&%20Pickups/Chests/sndChest.wav)
+> > > 
 > > > [Ammo](Environment/Chests%20&%20Pickups/Chests/Ammo) / [sndAmmoChest.wav](Environment/Chests%20&%20Pickups/Chests/Ammo/sndAmmoChest.wav)
 > > > 
 > > > [Canister](Environment/Chests%20&%20Pickups/Chests/Canister) /
@@ -195,8 +197,6 @@
 > > > - [sndBigWeaponChest.wav](Environment/Chests%20&%20Pickups/Chests/Weapon/sndBigWeaponChest.wav)
 > > > - [sndGoldChest.wav](Environment/Chests%20&%20Pickups/Chests/Weapon/sndGoldChest.wav)
 > > > - [sndWeaponChest.wav](Environment/Chests%20&%20Pickups/Chests/Weapon/sndWeaponChest.wav)
-> > > 
-> > > [sndChest.wav](Environment/Chests%20&%20Pickups/Chests/sndChest.wav)
 > > 
 > > [Pickups](Environment/Chests%20&%20Pickups/Pickups) /
 > > 
@@ -305,6 +305,16 @@
 > > > 
 > > > [Mom](Environment/Creatures%20&%20Props/Bosses/Mom) /
 > > > 
+> > > > - [sndBallMamaAppear.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaAppear.wav)
+> > > > - [sndBallMamaDead1.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaDead1.wav)
+> > > > - [sndBallMamaDead2.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaDead2.wav)
+> > > > - [sndBallMamaFire.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaFire.wav)
+> > > > - [sndBallMamaHalfHP.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaHalfHP.wav)
+> > > > - [sndBallMamaHurt.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaHurt.wav)
+> > > > - [sndBallMamaLoop.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaLoop.wav)
+> > > > - [sndBallMamaLowHP.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaLowHP.wav)
+> > > > - [sndBallMamaTaunt.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaTaunt.wav)
+> > > > 
 > > > > [Frog Eggs](Environment/Creatures%20&%20Props/Bosses/Mom/Frog%20Eggs) /
 > > > > 
 > > > > - [sndFrogEggDead.wav](Environment/Creatures%20&%20Props/Bosses/Mom/Frog%20Eggs/sndFrogEggDead.wav)
@@ -314,16 +324,6 @@
 > > > > - [sndFrogEggSpawn1.wav](Environment/Creatures%20&%20Props/Bosses/Mom/Frog%20Eggs/sndFrogEggSpawn1.wav)
 > > > > - [sndFrogEggSpawn2.wav](Environment/Creatures%20&%20Props/Bosses/Mom/Frog%20Eggs/sndFrogEggSpawn2.wav)
 > > > > - [sndFrogEggSpawn3.wav](Environment/Creatures%20&%20Props/Bosses/Mom/Frog%20Eggs/sndFrogEggSpawn3.wav)
-> > > > 
-> > > - [sndBallMamaAppear.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaAppear.wav)
-> > > - [sndBallMamaDead1.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaDead1.wav)
-> > > - [sndBallMamaDead2.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaDead2.wav)
-> > > - [sndBallMamaFire.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaFire.wav)
-> > > - [sndBallMamaHalfHP.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaHalfHP.wav)
-> > > - [sndBallMamaHurt.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaHurt.wav)
-> > > - [sndBallMamaLoop.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaLoop.wav)
-> > > - [sndBallMamaLowHP.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaLowHP.wav)
-> > > - [sndBallMamaTaunt.wav](Environment/Creatures%20&%20Props/Bosses/Mom/sndBallMamaTaunt.wav)
 > > > 
 > > > [Oasis Boss](Environment/Creatures%20&%20Props/Bosses/Oasis%20Boss) /
 > > > 
@@ -471,11 +471,11 @@
 > > > 
 > > > > [Assassin](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin) /
 > > > > 
-> > > > - [sndAssassinAttack.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/sndAssassinAttack.wav)
-> > > > - [sndAssassinDie.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/sndAssassinDie.wav)
-> > > > - [sndAssassinGetUp.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/sndAssassinGetUp.wav)
-> > > > - [sndAssassinHit.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/sndAssassinHit.wav)
-> > > > - [sndAssassinPretend.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/sndAssassinPretend.wav)
+> > > > > - [sndAssassinAttack.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/sndAssassinAttack.wav)
+> > > > > - [sndAssassinDie.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/sndAssassinDie.wav)
+> > > > > - [sndAssassinGetUp.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/sndAssassinGetUp.wav)
+> > > > > - [sndAssassinHit.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/sndAssassinHit.wav)
+> > > > > - [sndAssassinPretend.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/sndAssassinPretend.wav)
 > > > > > 
 > > > > > [Unused](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/Unused) / [sndEnemySlash.wav](Environment/Creatures%20&%20Props/Enemies/Bandits/Assassin/Unused/sndEnemySlash.wav)
 > > > > 
@@ -824,29 +824,27 @@
 > 
 > [Explosions](Environment/Explosions) /
 > 
+> > - [sndExplosion.wav](Environment/Explosions/sndExplosion.wav)
+> > - [sndExplosionCar.wav](Environment/Explosions/sndExplosionCar.wav)
+> > - [sndExplosionL.wav](Environment/Explosions/sndExplosionL.wav)
+> > - [sndExplosionS.wav](Environment/Explosions/sndExplosionS.wav)
+> > - [sndExplosionXL.wav](Environment/Explosions/sndExplosionXL.wav)
+> > - [sndMeatExplo.wav](Environment/Explosions/sndMeatExplo.wav)
+> > - [sndNukeExplosion.wav](Environment/Explosions/sndNukeExplosion.wav)
+> > - [sndToxicBarrelGas.wav](Environment/Explosions/sndToxicBarrelGas.wav)
+> > 
 > > [IDPD](Environment/Explosions/IDPD) /
 > > 
 > > - [sndIDPDNadeAlmost.wav](Environment/Explosions/IDPD/sndIDPDNadeAlmost.wav)
 > > - [sndIDPDNadeExplo.wav](Environment/Explosions/IDPD/sndIDPDNadeExplo.wav)
 > > - [sndIDPDNadeLoad.wav](Environment/Explosions/IDPD/sndIDPDNadeLoad.wav)
-> > 
-> - [sndExplosion.wav](Environment/Explosions/sndExplosion.wav)
-> - [sndExplosionCar.wav](Environment/Explosions/sndExplosionCar.wav)
-> - [sndExplosionL.wav](Environment/Explosions/sndExplosionL.wav)
-> - [sndExplosionS.wav](Environment/Explosions/sndExplosionS.wav)
-> - [sndExplosionXL.wav](Environment/Explosions/sndExplosionXL.wav)
-> - [sndMeatExplo.wav](Environment/Explosions/sndMeatExplo.wav)
-> - [sndNukeExplosion.wav](Environment/Explosions/sndNukeExplosion.wav)
-> - [sndToxicBarrelGas.wav](Environment/Explosions/sndToxicBarrelGas.wav)
 > 
 > [Portals](Environment/Portals) /
 > 
-> > [Flyby](Environment/Portals/Flyby) /
-> > 
-> > - [sndPortalFlyby1.wav](Environment/Portals/Flyby/sndPortalFlyby1.wav)
-> > - [sndPortalFlyby2.wav](Environment/Portals/Flyby/sndPortalFlyby2.wav)
-> > - [sndPortalFlyby3.wav](Environment/Portals/Flyby/sndPortalFlyby3.wav)
-> > - [sndPortalFlyby4.wav](Environment/Portals/Flyby/sndPortalFlyby4.wav)
+> > - [sndPortalAppear.wav](Environment/Portals/sndPortalAppear.wav)
+> > - [sndPortalClose.wav](Environment/Portals/sndPortalClose.wav)
+> > - [sndPortalLoop.wav](Environment/Portals/sndPortalLoop.wav)
+> > - [sndPortalOpen.wav](Environment/Portals/sndPortalOpen.wav)
 > > 
 > > [IDPD](Environment/Portals/IDPD) /
 > > 
@@ -854,6 +852,13 @@
 > > - [sndIDPDPortalSpawn.wav](Environment/Portals/IDPD/sndIDPDPortalSpawn.wav)
 > > - [sndVanPortal.wav](Environment/Portals/IDPD/sndVanPortal.wav)
 > > - [sndVanWarning.wav](Environment/Portals/IDPD/sndVanWarning.wav)
+> > 
+> > [Flyby](Environment/Portals/Flyby) /
+> > 
+> > - [sndPortalFlyby1.wav](Environment/Portals/Flyby/sndPortalFlyby1.wav)
+> > - [sndPortalFlyby2.wav](Environment/Portals/Flyby/sndPortalFlyby2.wav)
+> > - [sndPortalFlyby3.wav](Environment/Portals/Flyby/sndPortalFlyby3.wav)
+> > - [sndPortalFlyby4.wav](Environment/Portals/Flyby/sndPortalFlyby4.wav)
 > > 
 > > [Lightning](Environment/Portals/Lightning) /
 > > 
@@ -865,11 +870,6 @@
 > > - [sndPortalLightning6.wav](Environment/Portals/Lightning/sndPortalLightning6.wav)
 > > - [sndPortalLightning7.wav](Environment/Portals/Lightning/sndPortalLightning7.wav)
 > > - [sndPortalLightning8.wav](Environment/Portals/Lightning/sndPortalLightning8.wav)
-> > 
-> - [sndPortalAppear.wav](Environment/Portals/sndPortalAppear.wav)
-> - [sndPortalClose.wav](Environment/Portals/sndPortalClose.wav)
-> - [sndPortalLoop.wav](Environment/Portals/sndPortalLoop.wav)
-> - [sndPortalOpen.wav](Environment/Portals/sndPortalOpen.wav)
 > > 
 > > [Unused](Environment/Portals/Unused) / [sndPortalOld.wav](Environment/Portals/Unused/sndPortalOld.wav)
 > 
@@ -889,106 +889,121 @@
 > 
 > > [0 - Random](Player/Characters/0%20-%20Random) /
 > > 
-> > - [sndMutant0Cnfm.wav](Player/Characters/0%20-%20Random/sndMutant0Cnfm.wav)
-> > - [sndMutant0Slct.wav](Player/Characters/0%20-%20Random/sndMutant0Slct.wav)
+> > > - [sndMutant0Cnfm.wav](Player/Characters/0%20-%20Random/sndMutant0Cnfm.wav)
+> > > - [sndMutant0Slct.wav](Player/Characters/0%20-%20Random/sndMutant0Slct.wav)
 > > 
 > > [1 - Fish](Player/Characters/1%20-%20Fish) /
 > > 
+> > > - [sndMutant1Chst.wav](Player/Characters/1%20-%20Fish/sndMutant1Chst.wav)
+> > > - [sndMutant1Cnfm.wav](Player/Characters/1%20-%20Fish/sndMutant1Cnfm.wav)
+> > > - [sndMutant1Cptn.wav](Player/Characters/1%20-%20Fish/sndMutant1Cptn.wav)
+> > > - [sndMutant1Crwn.wav](Player/Characters/1%20-%20Fish/sndMutant1Crwn.wav)
+> > > - [sndMutant1Dead.wav](Player/Characters/1%20-%20Fish/sndMutant1Dead.wav)
+> > > - [sndMutant1Hurt.wav](Player/Characters/1%20-%20Fish/sndMutant1Hurt.wav)
+> > > - [sndMutant1IDPD.wav](Player/Characters/1%20-%20Fish/sndMutant1IDPD.wav)
+> > > - [sndMutant1LowA.wav](Player/Characters/1%20-%20Fish/sndMutant1LowA.wav)
+> > > - [sndMutant1LowH.wav](Player/Characters/1%20-%20Fish/sndMutant1LowH.wav)
+> > > - [sndMutant1Slct.wav](Player/Characters/1%20-%20Fish/sndMutant1Slct.wav)
+> > > - [sndMutant1Spch.ogg](Player/Characters/1%20-%20Fish/sndMutant1Spch.ogg)
+> > > - [sndMutant1Thrn.ogg](Player/Characters/1%20-%20Fish/sndMutant1Thrn.ogg)
+> > > - [sndMutant1Valt.wav](Player/Characters/1%20-%20Fish/sndMutant1Valt.wav)
+> > > - [sndMutant1Wrld.wav](Player/Characters/1%20-%20Fish/sndMutant1Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/1%20-%20Fish/Active) /
 > > > 
 > > > - [sndFishRollUpg.wav](Player/Characters/1%20-%20Fish/Active/sndFishRollUpg.wav)
 > > > - [sndFishTB.wav](Player/Characters/1%20-%20Fish/Active/sndFishTB.wav)
 > > > - [sndRoll.wav](Player/Characters/1%20-%20Fish/Active/sndRoll.wav)
 > > > 
-> > - [sndMutant1Chst.wav](Player/Characters/1%20-%20Fish/sndMutant1Chst.wav)
-> > - [sndMutant1Cnfm.wav](Player/Characters/1%20-%20Fish/sndMutant1Cnfm.wav)
-> > - [sndMutant1Cptn.wav](Player/Characters/1%20-%20Fish/sndMutant1Cptn.wav)
-> > - [sndMutant1Crwn.wav](Player/Characters/1%20-%20Fish/sndMutant1Crwn.wav)
-> > - [sndMutant1Dead.wav](Player/Characters/1%20-%20Fish/sndMutant1Dead.wav)
-> > - [sndMutant1Hurt.wav](Player/Characters/1%20-%20Fish/sndMutant1Hurt.wav)
-> > - [sndMutant1IDPD.wav](Player/Characters/1%20-%20Fish/sndMutant1IDPD.wav)
-> > - [sndMutant1LowA.wav](Player/Characters/1%20-%20Fish/sndMutant1LowA.wav)
-> > - [sndMutant1LowH.wav](Player/Characters/1%20-%20Fish/sndMutant1LowH.wav)
-> > - [sndMutant1Slct.wav](Player/Characters/1%20-%20Fish/sndMutant1Slct.wav)
-> > - [sndMutant1Spch.ogg](Player/Characters/1%20-%20Fish/sndMutant1Spch.ogg)
-> > - [sndMutant1Thrn.ogg](Player/Characters/1%20-%20Fish/sndMutant1Thrn.ogg)
-> > - [sndMutant1Valt.wav](Player/Characters/1%20-%20Fish/sndMutant1Valt.wav)
-> > - [sndMutant1Wrld.wav](Player/Characters/1%20-%20Fish/sndMutant1Wrld.wav)
-> > > 
 > > > [Ultra B - Gun Warrant](Player/Characters/1%20-%20Fish/Ultra%20B%20-%20Gun%20Warrant) / [sndFishWarrantEnd.wav](Player/Characters/1%20-%20Fish/Ultra%20B%20-%20Gun%20Warrant/sndFishWarrantEnd.wav)
 > > 
 > > [2 - Crystal](Player/Characters/2%20-%20Crystal) /
 > > 
+> > > - [sndMutant2Chst.wav](Player/Characters/2%20-%20Crystal/sndMutant2Chst.wav)
+> > > - [sndMutant2Cnfm.wav](Player/Characters/2%20-%20Crystal/sndMutant2Cnfm.wav)
+> > > - [sndMutant2Cptn.wav](Player/Characters/2%20-%20Crystal/sndMutant2Cptn.wav)
+> > > - [sndMutant2Crwn.wav](Player/Characters/2%20-%20Crystal/sndMutant2Crwn.wav)
+> > > - [sndMutant2Dead.wav](Player/Characters/2%20-%20Crystal/sndMutant2Dead.wav)
+> > > - [sndMutant2Hurt.wav](Player/Characters/2%20-%20Crystal/sndMutant2Hurt.wav)
+> > > - [sndMutant2IDPD.wav](Player/Characters/2%20-%20Crystal/sndMutant2IDPD.wav)
+> > > - [sndMutant2LowA.wav](Player/Characters/2%20-%20Crystal/sndMutant2LowA.wav)
+> > > - [sndMutant2LowH.wav](Player/Characters/2%20-%20Crystal/sndMutant2LowH.wav)
+> > > - [sndMutant2Slct.wav](Player/Characters/2%20-%20Crystal/sndMutant2Slct.wav)
+> > > - [sndMutant2Spch.ogg](Player/Characters/2%20-%20Crystal/sndMutant2Spch.ogg)
+> > > - [sndMutant2Thrn.ogg](Player/Characters/2%20-%20Crystal/sndMutant2Thrn.ogg)
+> > > - [sndMutant2Valt.wav](Player/Characters/2%20-%20Crystal/sndMutant2Valt.wav)
+> > > - [sndMutant2Wrld.wav](Player/Characters/2%20-%20Crystal/sndMutant2Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/2%20-%20Crystal/Active) /
 > > > 
 > > > - [sndCrystalRicochet.wav](Player/Characters/2%20-%20Crystal/Active/sndCrystalRicochet.wav)
 > > > - [sndCrystalShield.wav](Player/Characters/2%20-%20Crystal/Active/sndCrystalShield.wav)
 > > > - [sndCrystalTB.wav](Player/Characters/2%20-%20Crystal/Active/sndCrystalTB.wav)
 > > > 
-> > - [sndMutant2Chst.wav](Player/Characters/2%20-%20Crystal/sndMutant2Chst.wav)
-> > - [sndMutant2Cnfm.wav](Player/Characters/2%20-%20Crystal/sndMutant2Cnfm.wav)
-> > - [sndMutant2Cptn.wav](Player/Characters/2%20-%20Crystal/sndMutant2Cptn.wav)
-> > - [sndMutant2Crwn.wav](Player/Characters/2%20-%20Crystal/sndMutant2Crwn.wav)
-> > - [sndMutant2Dead.wav](Player/Characters/2%20-%20Crystal/sndMutant2Dead.wav)
-> > - [sndMutant2Hurt.wav](Player/Characters/2%20-%20Crystal/sndMutant2Hurt.wav)
-> > - [sndMutant2IDPD.wav](Player/Characters/2%20-%20Crystal/sndMutant2IDPD.wav)
-> > - [sndMutant2LowA.wav](Player/Characters/2%20-%20Crystal/sndMutant2LowA.wav)
-> > - [sndMutant2LowH.wav](Player/Characters/2%20-%20Crystal/sndMutant2LowH.wav)
-> > - [sndMutant2Slct.wav](Player/Characters/2%20-%20Crystal/sndMutant2Slct.wav)
-> > - [sndMutant2Spch.ogg](Player/Characters/2%20-%20Crystal/sndMutant2Spch.ogg)
-> > - [sndMutant2Thrn.ogg](Player/Characters/2%20-%20Crystal/sndMutant2Thrn.ogg)
-> > - [sndMutant2Valt.wav](Player/Characters/2%20-%20Crystal/sndMutant2Valt.wav)
-> > - [sndMutant2Wrld.wav](Player/Characters/2%20-%20Crystal/sndMutant2Wrld.wav)
-> > > 
 > > > [Ultra B - Juggernaut](Player/Characters/2%20-%20Crystal/Ultra%20B%20-%20Juggernaut) / [sndCrystalJuggernaut.wav](Player/Characters/2%20-%20Crystal/Ultra%20B%20-%20Juggernaut/sndCrystalJuggernaut.wav)
 > > 
 > > [3 - Eyes](Player/Characters/3%20-%20Eyes) /
 > > 
+> > > - [sndMutant3Chst.wav](Player/Characters/3%20-%20Eyes/sndMutant3Chst.wav)
+> > > - [sndMutant3Cnfm.wav](Player/Characters/3%20-%20Eyes/sndMutant3Cnfm.wav)
+> > > - [sndMutant3Cptn.wav](Player/Characters/3%20-%20Eyes/sndMutant3Cptn.wav)
+> > > - [sndMutant3Crwn.wav](Player/Characters/3%20-%20Eyes/sndMutant3Crwn.wav)
+> > > - [sndMutant3Dead.wav](Player/Characters/3%20-%20Eyes/sndMutant3Dead.wav)
+> > > - [sndMutant3Hurt.wav](Player/Characters/3%20-%20Eyes/sndMutant3Hurt.wav)
+> > > - [sndMutant3IDPD.wav](Player/Characters/3%20-%20Eyes/sndMutant3IDPD.wav)
+> > > - [sndMutant3LowA.wav](Player/Characters/3%20-%20Eyes/sndMutant3LowA.wav)
+> > > - [sndMutant3LowH.wav](Player/Characters/3%20-%20Eyes/sndMutant3LowH.wav)
+> > > - [sndMutant3Slct.wav](Player/Characters/3%20-%20Eyes/sndMutant3Slct.wav)
+> > > - [sndMutant3Spch.ogg](Player/Characters/3%20-%20Eyes/sndMutant3Spch.ogg)
+> > > - [sndMutant3Thrn.ogg](Player/Characters/3%20-%20Eyes/sndMutant3Thrn.ogg)
+> > > - [sndMutant3Valt.wav](Player/Characters/3%20-%20Eyes/sndMutant3Valt.wav)
+> > > - [sndMutant3Wrld.wav](Player/Characters/3%20-%20Eyes/sndMutant3Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/3%20-%20Eyes/Active) /
 > > > 
 > > > - [sndEyesLoop.wav](Player/Characters/3%20-%20Eyes/Active/sndEyesLoop.wav)
 > > > - [sndEyesLoopUpg.wav](Player/Characters/3%20-%20Eyes/Active/sndEyesLoopUpg.wav)
-> > > 
-> > - [sndMutant3Chst.wav](Player/Characters/3%20-%20Eyes/sndMutant3Chst.wav)
-> > - [sndMutant3Cnfm.wav](Player/Characters/3%20-%20Eyes/sndMutant3Cnfm.wav)
-> > - [sndMutant3Cptn.wav](Player/Characters/3%20-%20Eyes/sndMutant3Cptn.wav)
-> > - [sndMutant3Crwn.wav](Player/Characters/3%20-%20Eyes/sndMutant3Crwn.wav)
-> > - [sndMutant3Dead.wav](Player/Characters/3%20-%20Eyes/sndMutant3Dead.wav)
-> > - [sndMutant3Hurt.wav](Player/Characters/3%20-%20Eyes/sndMutant3Hurt.wav)
-> > - [sndMutant3IDPD.wav](Player/Characters/3%20-%20Eyes/sndMutant3IDPD.wav)
-> > - [sndMutant3LowA.wav](Player/Characters/3%20-%20Eyes/sndMutant3LowA.wav)
-> > - [sndMutant3LowH.wav](Player/Characters/3%20-%20Eyes/sndMutant3LowH.wav)
-> > - [sndMutant3Slct.wav](Player/Characters/3%20-%20Eyes/sndMutant3Slct.wav)
-> > - [sndMutant3Spch.ogg](Player/Characters/3%20-%20Eyes/sndMutant3Spch.ogg)
-> > - [sndMutant3Thrn.ogg](Player/Characters/3%20-%20Eyes/sndMutant3Thrn.ogg)
-> > - [sndMutant3Valt.wav](Player/Characters/3%20-%20Eyes/sndMutant3Valt.wav)
-> > - [sndMutant3Wrld.wav](Player/Characters/3%20-%20Eyes/sndMutant3Wrld.wav)
 > > 
 > > [4 - Melting](Player/Characters/4%20-%20Melting) /
 > > 
+> > > - [sndMutant4Chst.wav](Player/Characters/4%20-%20Melting/sndMutant4Chst.wav)
+> > > - [sndMutant4Cnfm.wav](Player/Characters/4%20-%20Melting/sndMutant4Cnfm.wav)
+> > > - [sndMutant4Cptn.wav](Player/Characters/4%20-%20Melting/sndMutant4Cptn.wav)
+> > > - [sndMutant4Crwn.wav](Player/Characters/4%20-%20Melting/sndMutant4Crwn.wav)
+> > > - [sndMutant4Dead.wav](Player/Characters/4%20-%20Melting/sndMutant4Dead.wav)
+> > > - [sndMutant4Hurt.wav](Player/Characters/4%20-%20Melting/sndMutant4Hurt.wav)
+> > > - [sndMutant4IDPD.wav](Player/Characters/4%20-%20Melting/sndMutant4IDPD.wav)
+> > > - [sndMutant4LowA.wav](Player/Characters/4%20-%20Melting/sndMutant4LowA.wav)
+> > > - [sndMutant4LowH.wav](Player/Characters/4%20-%20Melting/sndMutant4LowH.wav)
+> > > - [sndMutant4Slct.wav](Player/Characters/4%20-%20Melting/sndMutant4Slct.wav)
+> > > - [sndMutant4Spch.ogg](Player/Characters/4%20-%20Melting/sndMutant4Spch.ogg)
+> > > - [sndMutant4Thrn.ogg](Player/Characters/4%20-%20Melting/sndMutant4Thrn.ogg)
+> > > - [sndMutant4Valt.wav](Player/Characters/4%20-%20Melting/sndMutant4Valt.wav)
+> > > - [sndMutant4Wrld.wav](Player/Characters/4%20-%20Melting/sndMutant4Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/4%20-%20Melting/Active) /
 > > > 
 > > > - [sndCorpseExplo.wav](Player/Characters/4%20-%20Melting/Active/sndCorpseExplo.wav)
 > > > - [sndCorpseExploDead.wav](Player/Characters/4%20-%20Melting/Active/sndCorpseExploDead.wav)
 > > > - [sndCorpseExploUpg.wav](Player/Characters/4%20-%20Melting/Active/sndCorpseExploUpg.wav)
-> > > 
-> > - [sndMutant4Chst.wav](Player/Characters/4%20-%20Melting/sndMutant4Chst.wav)
-> > - [sndMutant4Cnfm.wav](Player/Characters/4%20-%20Melting/sndMutant4Cnfm.wav)
-> > - [sndMutant4Cptn.wav](Player/Characters/4%20-%20Melting/sndMutant4Cptn.wav)
-> > - [sndMutant4Crwn.wav](Player/Characters/4%20-%20Melting/sndMutant4Crwn.wav)
-> > - [sndMutant4Dead.wav](Player/Characters/4%20-%20Melting/sndMutant4Dead.wav)
-> > - [sndMutant4Hurt.wav](Player/Characters/4%20-%20Melting/sndMutant4Hurt.wav)
-> > - [sndMutant4IDPD.wav](Player/Characters/4%20-%20Melting/sndMutant4IDPD.wav)
-> > - [sndMutant4LowA.wav](Player/Characters/4%20-%20Melting/sndMutant4LowA.wav)
-> > - [sndMutant4LowH.wav](Player/Characters/4%20-%20Melting/sndMutant4LowH.wav)
-> > - [sndMutant4Slct.wav](Player/Characters/4%20-%20Melting/sndMutant4Slct.wav)
-> > - [sndMutant4Spch.ogg](Player/Characters/4%20-%20Melting/sndMutant4Spch.ogg)
-> > - [sndMutant4Thrn.ogg](Player/Characters/4%20-%20Melting/sndMutant4Thrn.ogg)
-> > - [sndMutant4Valt.wav](Player/Characters/4%20-%20Melting/sndMutant4Valt.wav)
-> > - [sndMutant4Wrld.wav](Player/Characters/4%20-%20Melting/sndMutant4Wrld.wav)
 > > 
 > > [5 - Plant](Player/Characters/5%20-%20Plant) /
 > > 
+> > > - [sndMutant5Chst.wav](Player/Characters/5%20-%20Plant/sndMutant5Chst.wav)
+> > > - [sndMutant5Cnfm.wav](Player/Characters/5%20-%20Plant/sndMutant5Cnfm.wav)
+> > > - [sndMutant5Cptn.wav](Player/Characters/5%20-%20Plant/sndMutant5Cptn.wav)
+> > > - [sndMutant5Crwn.wav](Player/Characters/5%20-%20Plant/sndMutant5Crwn.wav)
+> > > - [sndMutant5Dead.wav](Player/Characters/5%20-%20Plant/sndMutant5Dead.wav)
+> > > - [sndMutant5Hurt.wav](Player/Characters/5%20-%20Plant/sndMutant5Hurt.wav)
+> > > - [sndMutant5IDPD.wav](Player/Characters/5%20-%20Plant/sndMutant5IDPD.wav)
+> > > - [sndMutant5LowA.wav](Player/Characters/5%20-%20Plant/sndMutant5LowA.wav)
+> > > - [sndMutant5LowH.wav](Player/Characters/5%20-%20Plant/sndMutant5LowH.wav)
+> > > - [sndMutant5Slct.wav](Player/Characters/5%20-%20Plant/sndMutant5Slct.wav)
+> > > - [sndMutant5Spch.ogg](Player/Characters/5%20-%20Plant/sndMutant5Spch.ogg)
+> > > - [sndMutant5Thrn.ogg](Player/Characters/5%20-%20Plant/sndMutant5Thrn.ogg)
+> > > - [sndMutant5Valt.wav](Player/Characters/5%20-%20Plant/sndMutant5Valt.wav)
+> > > - [sndMutant5Wrld.wav](Player/Characters/5%20-%20Plant/sndMutant5Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/5%20-%20Plant/Active) /
 > > > 
 > > > - [sndPlantFire.wav](Player/Characters/5%20-%20Plant/Active/sndPlantFire.wav)
@@ -998,21 +1013,6 @@
 > > > - [sndPlantSnareTB.wav](Player/Characters/5%20-%20Plant/Active/sndPlantSnareTB.wav)
 > > > - [sndPlantTBKill.wav](Player/Characters/5%20-%20Plant/Active/sndPlantTBKill.wav)
 > > > 
-> > - [sndMutant5Chst.wav](Player/Characters/5%20-%20Plant/sndMutant5Chst.wav)
-> > - [sndMutant5Cnfm.wav](Player/Characters/5%20-%20Plant/sndMutant5Cnfm.wav)
-> > - [sndMutant5Cptn.wav](Player/Characters/5%20-%20Plant/sndMutant5Cptn.wav)
-> > - [sndMutant5Crwn.wav](Player/Characters/5%20-%20Plant/sndMutant5Crwn.wav)
-> > - [sndMutant5Dead.wav](Player/Characters/5%20-%20Plant/sndMutant5Dead.wav)
-> > - [sndMutant5Hurt.wav](Player/Characters/5%20-%20Plant/sndMutant5Hurt.wav)
-> > - [sndMutant5IDPD.wav](Player/Characters/5%20-%20Plant/sndMutant5IDPD.wav)
-> > - [sndMutant5LowA.wav](Player/Characters/5%20-%20Plant/sndMutant5LowA.wav)
-> > - [sndMutant5LowH.wav](Player/Characters/5%20-%20Plant/sndMutant5LowH.wav)
-> > - [sndMutant5Slct.wav](Player/Characters/5%20-%20Plant/sndMutant5Slct.wav)
-> > - [sndMutant5Spch.ogg](Player/Characters/5%20-%20Plant/sndMutant5Spch.ogg)
-> > - [sndMutant5Thrn.ogg](Player/Characters/5%20-%20Plant/sndMutant5Thrn.ogg)
-> > - [sndMutant5Valt.wav](Player/Characters/5%20-%20Plant/sndMutant5Valt.wav)
-> > - [sndMutant5Wrld.wav](Player/Characters/5%20-%20Plant/sndMutant5Wrld.wav)
-> > > 
 > > > [Ultra A - Trapper](Player/Characters/5%20-%20Plant/Ultra%20A%20-%20Trapper) /
 > > > 
 > > > - [sndPlantSnareTrapper.wav](Player/Characters/5%20-%20Plant/Ultra%20A%20-%20Trapper/sndPlantSnareTrapper.wav)
@@ -1020,6 +1020,21 @@
 > > 
 > > [6 - Y.V](Player/Characters/6%20-%20Y.V) /
 > > 
+> > > - [sndMutant6Chst.wav](Player/Characters/6%20-%20Y.V/sndMutant6Chst.wav)
+> > > - [sndMutant6Cnfm.wav](Player/Characters/6%20-%20Y.V/sndMutant6Cnfm.wav)
+> > > - [sndMutant6Cptn.wav](Player/Characters/6%20-%20Y.V/sndMutant6Cptn.wav)
+> > > - [sndMutant6Crwn.wav](Player/Characters/6%20-%20Y.V/sndMutant6Crwn.wav)
+> > > - [sndMutant6Dead.wav](Player/Characters/6%20-%20Y.V/sndMutant6Dead.wav)
+> > > - [sndMutant6Hurt.wav](Player/Characters/6%20-%20Y.V/sndMutant6Hurt.wav)
+> > > - [sndMutant6IDPD.wav](Player/Characters/6%20-%20Y.V/sndMutant6IDPD.wav)
+> > > - [sndMutant6LowA.wav](Player/Characters/6%20-%20Y.V/sndMutant6LowA.wav)
+> > > - [sndMutant6LowH.wav](Player/Characters/6%20-%20Y.V/sndMutant6LowH.wav)
+> > > - [sndMutant6Slct.wav](Player/Characters/6%20-%20Y.V/sndMutant6Slct.wav)
+> > > - [sndMutant6Spch.ogg](Player/Characters/6%20-%20Y.V/sndMutant6Spch.ogg)
+> > > - [sndMutant6Thrn.ogg](Player/Characters/6%20-%20Y.V/sndMutant6Thrn.ogg)
+> > > - [sndMutant6Valt.wav](Player/Characters/6%20-%20Y.V/sndMutant6Valt.wav)
+> > > - [sndMutant6Wrld.wav](Player/Characters/6%20-%20Y.V/sndMutant6Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/6%20-%20Y.V/Active) /
 > > > 
 > > > - [sndMutant6No.wav](Player/Characters/6%20-%20Y.V/Active/sndMutant6No.wav)
@@ -1027,65 +1042,66 @@
 > > > - [sndPopPopUpg.wav](Player/Characters/6%20-%20Y.V/Active/sndPopPopUpg.wav)
 > > > 
 > > > [Horn](Player/Characters/6%20-%20Y.V/Horn) / [sndVenuz.wav](Player/Characters/6%20-%20Y.V/Horn/sndVenuz.wav)
-> > - [sndMutant6Chst.wav](Player/Characters/6%20-%20Y.V/sndMutant6Chst.wav)
-> > - [sndMutant6Cnfm.wav](Player/Characters/6%20-%20Y.V/sndMutant6Cnfm.wav)
-> > - [sndMutant6Cptn.wav](Player/Characters/6%20-%20Y.V/sndMutant6Cptn.wav)
-> > - [sndMutant6Crwn.wav](Player/Characters/6%20-%20Y.V/sndMutant6Crwn.wav)
-> > - [sndMutant6Dead.wav](Player/Characters/6%20-%20Y.V/sndMutant6Dead.wav)
-> > - [sndMutant6Hurt.wav](Player/Characters/6%20-%20Y.V/sndMutant6Hurt.wav)
-> > - [sndMutant6IDPD.wav](Player/Characters/6%20-%20Y.V/sndMutant6IDPD.wav)
-> > - [sndMutant6LowA.wav](Player/Characters/6%20-%20Y.V/sndMutant6LowA.wav)
-> > - [sndMutant6LowH.wav](Player/Characters/6%20-%20Y.V/sndMutant6LowH.wav)
-> > - [sndMutant6Slct.wav](Player/Characters/6%20-%20Y.V/sndMutant6Slct.wav)
-> > - [sndMutant6Spch.ogg](Player/Characters/6%20-%20Y.V/sndMutant6Spch.ogg)
-> > - [sndMutant6Thrn.ogg](Player/Characters/6%20-%20Y.V/sndMutant6Thrn.ogg)
-> > - [sndMutant6Valt.wav](Player/Characters/6%20-%20Y.V/sndMutant6Valt.wav)
-> > - [sndMutant6Wrld.wav](Player/Characters/6%20-%20Y.V/sndMutant6Wrld.wav)
 > > 
 > > [7 - Steroids](Player/Characters/7%20-%20Steroids) /
 > > 
-> > - [sndMutant7Chst.wav](Player/Characters/7%20-%20Steroids/sndMutant7Chst.wav)
-> > - [sndMutant7Cnfm.wav](Player/Characters/7%20-%20Steroids/sndMutant7Cnfm.wav)
-> > - [sndMutant7Cptn.wav](Player/Characters/7%20-%20Steroids/sndMutant7Cptn.wav)
-> > - [sndMutant7Crwn.wav](Player/Characters/7%20-%20Steroids/sndMutant7Crwn.wav)
-> > - [sndMutant7Dead.wav](Player/Characters/7%20-%20Steroids/sndMutant7Dead.wav)
-> > - [sndMutant7Hurt.wav](Player/Characters/7%20-%20Steroids/sndMutant7Hurt.wav)
-> > - [sndMutant7IDPD.wav](Player/Characters/7%20-%20Steroids/sndMutant7IDPD.wav)
-> > - [sndMutant7LowA.wav](Player/Characters/7%20-%20Steroids/sndMutant7LowA.wav)
-> > - [sndMutant7LowH.wav](Player/Characters/7%20-%20Steroids/sndMutant7LowH.wav)
-> > - [sndMutant7Slct.wav](Player/Characters/7%20-%20Steroids/sndMutant7Slct.wav)
-> > - [sndMutant7Spch.ogg](Player/Characters/7%20-%20Steroids/sndMutant7Spch.ogg)
-> > - [sndMutant7Thrn.ogg](Player/Characters/7%20-%20Steroids/sndMutant7Thrn.ogg)
-> > - [sndMutant7Valt.wav](Player/Characters/7%20-%20Steroids/sndMutant7Valt.wav)
-> > - [sndMutant7Wrld.wav](Player/Characters/7%20-%20Steroids/sndMutant7Wrld.wav)
+> > > - [sndMutant7Chst.wav](Player/Characters/7%20-%20Steroids/sndMutant7Chst.wav)
+> > > - [sndMutant7Cnfm.wav](Player/Characters/7%20-%20Steroids/sndMutant7Cnfm.wav)
+> > > - [sndMutant7Cptn.wav](Player/Characters/7%20-%20Steroids/sndMutant7Cptn.wav)
+> > > - [sndMutant7Crwn.wav](Player/Characters/7%20-%20Steroids/sndMutant7Crwn.wav)
+> > > - [sndMutant7Dead.wav](Player/Characters/7%20-%20Steroids/sndMutant7Dead.wav)
+> > > - [sndMutant7Hurt.wav](Player/Characters/7%20-%20Steroids/sndMutant7Hurt.wav)
+> > > - [sndMutant7IDPD.wav](Player/Characters/7%20-%20Steroids/sndMutant7IDPD.wav)
+> > > - [sndMutant7LowA.wav](Player/Characters/7%20-%20Steroids/sndMutant7LowA.wav)
+> > > - [sndMutant7LowH.wav](Player/Characters/7%20-%20Steroids/sndMutant7LowH.wav)
+> > > - [sndMutant7Slct.wav](Player/Characters/7%20-%20Steroids/sndMutant7Slct.wav)
+> > > - [sndMutant7Spch.ogg](Player/Characters/7%20-%20Steroids/sndMutant7Spch.ogg)
+> > > - [sndMutant7Thrn.ogg](Player/Characters/7%20-%20Steroids/sndMutant7Thrn.ogg)
+> > > - [sndMutant7Valt.wav](Player/Characters/7%20-%20Steroids/sndMutant7Valt.wav)
+> > > - [sndMutant7Wrld.wav](Player/Characters/7%20-%20Steroids/sndMutant7Wrld.wav)
 > > > 
 > > > [Unused](Player/Characters/7%20-%20Steroids/Unused) / [sndSteroidsUpg.wav](Player/Characters/7%20-%20Steroids/Unused/sndSteroidsUpg.wav)
 > > 
 > > [8 - Robot](Player/Characters/8%20-%20Robot) /
 > > 
+> > > - [sndMutant8Chst.wav](Player/Characters/8%20-%20Robot/sndMutant8Chst.wav)
+> > > - [sndMutant8Cnfm.wav](Player/Characters/8%20-%20Robot/sndMutant8Cnfm.wav)
+> > > - [sndMutant8Cptn.wav](Player/Characters/8%20-%20Robot/sndMutant8Cptn.wav)
+> > > - [sndMutant8Crwn.wav](Player/Characters/8%20-%20Robot/sndMutant8Crwn.wav)
+> > > - [sndMutant8Dead.wav](Player/Characters/8%20-%20Robot/sndMutant8Dead.wav)
+> > > - [sndMutant8Hurt.wav](Player/Characters/8%20-%20Robot/sndMutant8Hurt.wav)
+> > > - [sndMutant8LowA.wav](Player/Characters/8%20-%20Robot/sndMutant8LowA.wav)
+> > > - [sndMutant8LowH.wav](Player/Characters/8%20-%20Robot/sndMutant8LowH.wav)
+> > > - [sndMutant8Slct.wav](Player/Characters/8%20-%20Robot/sndMutant8Slct.wav)
+> > > - [sndMutant8Spch.ogg](Player/Characters/8%20-%20Robot/sndMutant8Spch.ogg)
+> > > - [sndMutant8Thrn.ogg](Player/Characters/8%20-%20Robot/sndMutant8Thrn.ogg)
+> > > - [sndMutant8Valt.wav](Player/Characters/8%20-%20Robot/sndMutant8Valt.wav)
+> > > - [sndMutant8Wrld.wav](Player/Characters/8%20-%20Robot/sndMutant8Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/8%20-%20Robot/Active) /
 > > > 
 > > > - [sndRobotEat.wav](Player/Characters/8%20-%20Robot/Active/sndRobotEat.wav)
 > > > - [sndRobotEatUpg.wav](Player/Characters/8%20-%20Robot/Active/sndRobotEatUpg.wav)
 > > > 
-> > - [sndMutant8Chst.wav](Player/Characters/8%20-%20Robot/sndMutant8Chst.wav)
-> > - [sndMutant8Cnfm.wav](Player/Characters/8%20-%20Robot/sndMutant8Cnfm.wav)
-> > - [sndMutant8Cptn.wav](Player/Characters/8%20-%20Robot/sndMutant8Cptn.wav)
-> > - [sndMutant8Crwn.wav](Player/Characters/8%20-%20Robot/sndMutant8Crwn.wav)
-> > - [sndMutant8Dead.wav](Player/Characters/8%20-%20Robot/sndMutant8Dead.wav)
-> > - [sndMutant8Hurt.wav](Player/Characters/8%20-%20Robot/sndMutant8Hurt.wav)
-> > - [sndMutant8LowA.wav](Player/Characters/8%20-%20Robot/sndMutant8LowA.wav)
-> > - [sndMutant8LowH.wav](Player/Characters/8%20-%20Robot/sndMutant8LowH.wav)
-> > - [sndMutant8Slct.wav](Player/Characters/8%20-%20Robot/sndMutant8Slct.wav)
-> > - [sndMutant8Spch.ogg](Player/Characters/8%20-%20Robot/sndMutant8Spch.ogg)
-> > - [sndMutant8Thrn.ogg](Player/Characters/8%20-%20Robot/sndMutant8Thrn.ogg)
-> > - [sndMutant8Valt.wav](Player/Characters/8%20-%20Robot/sndMutant8Valt.wav)
-> > - [sndMutant8Wrld.wav](Player/Characters/8%20-%20Robot/sndMutant8Wrld.wav)
-> > > 
 > > > [Ultra B - Regurgitate](Player/Characters/8%20-%20Robot/Ultra%20B%20-%20Regurgitate) / [sndRegurgitate.wav](Player/Characters/8%20-%20Robot/Ultra%20B%20-%20Regurgitate/sndRegurgitate.wav)
 > > 
 > > [9 - Chicken](Player/Characters/9%20-%20Chicken) /
 > > 
+> > > - [sndMutant9Chst.wav](Player/Characters/9%20-%20Chicken/sndMutant9Chst.wav)
+> > > - [sndMutant9Cnfm.wav](Player/Characters/9%20-%20Chicken/sndMutant9Cnfm.wav)
+> > > - [sndMutant9Cptn.wav](Player/Characters/9%20-%20Chicken/sndMutant9Cptn.wav)
+> > > - [sndMutant9Crwn.wav](Player/Characters/9%20-%20Chicken/sndMutant9Crwn.wav)
+> > > - [sndMutant9Dead.wav](Player/Characters/9%20-%20Chicken/sndMutant9Dead.wav)
+> > > - [sndMutant9Hurt.wav](Player/Characters/9%20-%20Chicken/sndMutant9Hurt.wav)
+> > > - [sndMutant9IDPD.wav](Player/Characters/9%20-%20Chicken/sndMutant9IDPD.wav)
+> > > - [sndMutant9LowA.wav](Player/Characters/9%20-%20Chicken/sndMutant9LowA.wav)
+> > > - [sndMutant9LowH.wav](Player/Characters/9%20-%20Chicken/sndMutant9LowH.wav)
+> > > - [sndMutant9Slct.wav](Player/Characters/9%20-%20Chicken/sndMutant9Slct.wav)
+> > > - [sndMutant9Spch.ogg](Player/Characters/9%20-%20Chicken/sndMutant9Spch.ogg)
+> > > - [sndMutant9Thrn.ogg](Player/Characters/9%20-%20Chicken/sndMutant9Thrn.ogg)
+> > > - [sndMutant9Valt.wav](Player/Characters/9%20-%20Chicken/sndMutant9Valt.wav)
+> > > - [sndMutant9Wrld.wav](Player/Characters/9%20-%20Chicken/sndMutant9Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/9%20-%20Chicken/Active) / [sndChickenThrow.wav](Player/Characters/9%20-%20Chicken/Active/sndChickenThrow.wav)
 > > > 
 > > > [Passive](Player/Characters/9%20-%20Chicken/Passive) /
@@ -1093,21 +1109,6 @@
 > > > - [sndChickenHeadlessLoop.wav](Player/Characters/9%20-%20Chicken/Passive/sndChickenHeadlessLoop.wav)
 > > > - [sndChickenLoseHead.wav](Player/Characters/9%20-%20Chicken/Passive/sndChickenLoseHead.wav)
 > > > - [sndChickenRegenHead.wav](Player/Characters/9%20-%20Chicken/Passive/sndChickenRegenHead.wav)
-> > > 
-> > - [sndMutant9Chst.wav](Player/Characters/9%20-%20Chicken/sndMutant9Chst.wav)
-> > - [sndMutant9Cnfm.wav](Player/Characters/9%20-%20Chicken/sndMutant9Cnfm.wav)
-> > - [sndMutant9Cptn.wav](Player/Characters/9%20-%20Chicken/sndMutant9Cptn.wav)
-> > - [sndMutant9Crwn.wav](Player/Characters/9%20-%20Chicken/sndMutant9Crwn.wav)
-> > - [sndMutant9Dead.wav](Player/Characters/9%20-%20Chicken/sndMutant9Dead.wav)
-> > - [sndMutant9Hurt.wav](Player/Characters/9%20-%20Chicken/sndMutant9Hurt.wav)
-> > - [sndMutant9IDPD.wav](Player/Characters/9%20-%20Chicken/sndMutant9IDPD.wav)
-> > - [sndMutant9LowA.wav](Player/Characters/9%20-%20Chicken/sndMutant9LowA.wav)
-> > - [sndMutant9LowH.wav](Player/Characters/9%20-%20Chicken/sndMutant9LowH.wav)
-> > - [sndMutant9Slct.wav](Player/Characters/9%20-%20Chicken/sndMutant9Slct.wav)
-> > - [sndMutant9Spch.ogg](Player/Characters/9%20-%20Chicken/sndMutant9Spch.ogg)
-> > - [sndMutant9Thrn.ogg](Player/Characters/9%20-%20Chicken/sndMutant9Thrn.ogg)
-> > - [sndMutant9Valt.wav](Player/Characters/9%20-%20Chicken/sndMutant9Valt.wav)
-> > - [sndMutant9Wrld.wav](Player/Characters/9%20-%20Chicken/sndMutant9Wrld.wav)
 > > > 
 > > > [Ultra B - Determination](Player/Characters/9%20-%20Chicken/Ultra%20B%20-%20Determination) / [sndChickenReturn.wav](Player/Characters/9%20-%20Chicken/Ultra%20B%20-%20Determination/sndChickenReturn.wav)
 > > > 
@@ -1118,26 +1119,26 @@
 > > 
 > > [10 - Rebel](Player/Characters/10%20-%20Rebel) /
 > > 
+> > > - [sndMutant10Chst.wav](Player/Characters/10%20-%20Rebel/sndMutant10Chst.wav)
+> > > - [sndMutant10Cnfm.wav](Player/Characters/10%20-%20Rebel/sndMutant10Cnfm.wav)
+> > > - [sndMutant10Cptn.wav](Player/Characters/10%20-%20Rebel/sndMutant10Cptn.wav)
+> > > - [sndMutant10Crwn.wav](Player/Characters/10%20-%20Rebel/sndMutant10Crwn.wav)
+> > > - [sndMutant10Dead.wav](Player/Characters/10%20-%20Rebel/sndMutant10Dead.wav)
+> > > - [sndMutant10Hurt.wav](Player/Characters/10%20-%20Rebel/sndMutant10Hurt.wav)
+> > > - [sndMutant10IDPD.wav](Player/Characters/10%20-%20Rebel/sndMutant10IDPD.wav)
+> > > - [sndMutant10KillBigBandit.wav](Player/Characters/10%20-%20Rebel/sndMutant10KillBigBandit.wav)
+> > > - [sndMutant10LowA.wav](Player/Characters/10%20-%20Rebel/sndMutant10LowA.wav)
+> > > - [sndMutant10LowH.wav](Player/Characters/10%20-%20Rebel/sndMutant10LowH.wav)
+> > > - [sndMutant10Slct.wav](Player/Characters/10%20-%20Rebel/sndMutant10Slct.wav)
+> > > - [sndMutant10Spch.ogg](Player/Characters/10%20-%20Rebel/sndMutant10Spch.ogg)
+> > > - [sndMutant10Thrn.ogg](Player/Characters/10%20-%20Rebel/sndMutant10Thrn.ogg)
+> > > - [sndMutant10Valt.wav](Player/Characters/10%20-%20Rebel/sndMutant10Valt.wav)
+> > > - [sndMutant10Wrld.wav](Player/Characters/10%20-%20Rebel/sndMutant10Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/10%20-%20Rebel/Active) /
 > > > 
 > > > - [sndSpawnAlly.wav](Player/Characters/10%20-%20Rebel/Active/sndSpawnAlly.wav)
 > > > - [sndSpawnSuperAlly.wav](Player/Characters/10%20-%20Rebel/Active/sndSpawnSuperAlly.wav)
-> > > 
-> > - [sndMutant10Chst.wav](Player/Characters/10%20-%20Rebel/sndMutant10Chst.wav)
-> > - [sndMutant10Cnfm.wav](Player/Characters/10%20-%20Rebel/sndMutant10Cnfm.wav)
-> > - [sndMutant10Cptn.wav](Player/Characters/10%20-%20Rebel/sndMutant10Cptn.wav)
-> > - [sndMutant10Crwn.wav](Player/Characters/10%20-%20Rebel/sndMutant10Crwn.wav)
-> > - [sndMutant10Dead.wav](Player/Characters/10%20-%20Rebel/sndMutant10Dead.wav)
-> > - [sndMutant10Hurt.wav](Player/Characters/10%20-%20Rebel/sndMutant10Hurt.wav)
-> > - [sndMutant10IDPD.wav](Player/Characters/10%20-%20Rebel/sndMutant10IDPD.wav)
-> > - [sndMutant10KillBigBandit.wav](Player/Characters/10%20-%20Rebel/sndMutant10KillBigBandit.wav)
-> > - [sndMutant10LowA.wav](Player/Characters/10%20-%20Rebel/sndMutant10LowA.wav)
-> > - [sndMutant10LowH.wav](Player/Characters/10%20-%20Rebel/sndMutant10LowH.wav)
-> > - [sndMutant10Slct.wav](Player/Characters/10%20-%20Rebel/sndMutant10Slct.wav)
-> > - [sndMutant10Spch.ogg](Player/Characters/10%20-%20Rebel/sndMutant10Spch.ogg)
-> > - [sndMutant10Thrn.ogg](Player/Characters/10%20-%20Rebel/sndMutant10Thrn.ogg)
-> > - [sndMutant10Valt.wav](Player/Characters/10%20-%20Rebel/sndMutant10Valt.wav)
-> > - [sndMutant10Wrld.wav](Player/Characters/10%20-%20Rebel/sndMutant10Wrld.wav)
 > > > 
 > > > [Ultra A - Personal Guard](Player/Characters/10%20-%20Rebel/Ultra%20A%20-%20Personal%20Guard) /
 > > > 
@@ -1146,6 +1147,21 @@
 > > 
 > > [11 - Horror](Player/Characters/11%20-%20Horror) /
 > > 
+> > > - [sndMutant11Chst.wav](Player/Characters/11%20-%20Horror/sndMutant11Chst.wav)
+> > > - [sndMutant11Cnfm.wav](Player/Characters/11%20-%20Horror/sndMutant11Cnfm.wav)
+> > > - [sndMutant11Cptn.wav](Player/Characters/11%20-%20Horror/sndMutant11Cptn.wav)
+> > > - [sndMutant11Crwn.wav](Player/Characters/11%20-%20Horror/sndMutant11Crwn.wav)
+> > > - [sndMutant11Dead.wav](Player/Characters/11%20-%20Horror/sndMutant11Dead.wav)
+> > > - [sndMutant11Hurt.wav](Player/Characters/11%20-%20Horror/sndMutant11Hurt.wav)
+> > > - [sndMutant11IDPD.wav](Player/Characters/11%20-%20Horror/sndMutant11IDPD.wav)
+> > > - [sndMutant11LowA.wav](Player/Characters/11%20-%20Horror/sndMutant11LowA.wav)
+> > > - [sndMutant11LowH.wav](Player/Characters/11%20-%20Horror/sndMutant11LowH.wav)
+> > > - [sndMutant11Slct.wav](Player/Characters/11%20-%20Horror/sndMutant11Slct.wav)
+> > > - [sndMutant11Spch.ogg](Player/Characters/11%20-%20Horror/sndMutant11Spch.ogg)
+> > > - [sndMutant11Thrn.ogg](Player/Characters/11%20-%20Horror/sndMutant11Thrn.ogg)
+> > > - [sndMutant11Valt.wav](Player/Characters/11%20-%20Horror/sndMutant11Valt.wav)
+> > > - [sndMutant11Wrld.wav](Player/Characters/11%20-%20Horror/sndMutant11Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/11%20-%20Horror/Active) /
 > > > 
 > > > - [sndHorrorBeam.wav](Player/Characters/11%20-%20Horror/Active/sndHorrorBeam.wav)
@@ -1153,27 +1169,28 @@
 > > > - [sndHorrorLoop.wav](Player/Characters/11%20-%20Horror/Active/sndHorrorLoop.wav)
 > > > - [sndHorrorLoopTB.wav](Player/Characters/11%20-%20Horror/Active/sndHorrorLoopTB.wav)
 > > > 
-> > - [sndMutant11Chst.wav](Player/Characters/11%20-%20Horror/sndMutant11Chst.wav)
-> > - [sndMutant11Cnfm.wav](Player/Characters/11%20-%20Horror/sndMutant11Cnfm.wav)
-> > - [sndMutant11Cptn.wav](Player/Characters/11%20-%20Horror/sndMutant11Cptn.wav)
-> > - [sndMutant11Crwn.wav](Player/Characters/11%20-%20Horror/sndMutant11Crwn.wav)
-> > - [sndMutant11Dead.wav](Player/Characters/11%20-%20Horror/sndMutant11Dead.wav)
-> > - [sndMutant11Hurt.wav](Player/Characters/11%20-%20Horror/sndMutant11Hurt.wav)
-> > - [sndMutant11IDPD.wav](Player/Characters/11%20-%20Horror/sndMutant11IDPD.wav)
-> > - [sndMutant11LowA.wav](Player/Characters/11%20-%20Horror/sndMutant11LowA.wav)
-> > - [sndMutant11LowH.wav](Player/Characters/11%20-%20Horror/sndMutant11LowH.wav)
-> > - [sndMutant11Slct.wav](Player/Characters/11%20-%20Horror/sndMutant11Slct.wav)
-> > - [sndMutant11Spch.ogg](Player/Characters/11%20-%20Horror/sndMutant11Spch.ogg)
-> > - [sndMutant11Thrn.ogg](Player/Characters/11%20-%20Horror/sndMutant11Thrn.ogg)
-> > - [sndMutant11Valt.wav](Player/Characters/11%20-%20Horror/sndMutant11Valt.wav)
-> > - [sndMutant11Wrld.wav](Player/Characters/11%20-%20Horror/sndMutant11Wrld.wav)
-> > > 
 > > > [Ultra A - Stalker](Player/Characters/11%20-%20Horror/Ultra%20A%20-%20Stalker) / [sndHorrorA.wav](Player/Characters/11%20-%20Horror/Ultra%20A%20-%20Stalker/sndHorrorA.wav)
 > > > 
 > > > [Ultra B - Anomaly](Player/Characters/11%20-%20Horror/Ultra%20B%20-%20Anomaly) / [sndHorrorPortal.wav](Player/Characters/11%20-%20Horror/Ultra%20B%20-%20Anomaly/sndHorrorPortal.wav)
 > > 
 > > [12 - Rogue](Player/Characters/12%20-%20Rogue) /
 > > 
+> > > - [sndMutant12Chst.wav](Player/Characters/12%20-%20Rogue/sndMutant12Chst.wav)
+> > > - [sndMutant12Cnfm.wav](Player/Characters/12%20-%20Rogue/sndMutant12Cnfm.wav)
+> > > - [sndMutant12Cptn.wav](Player/Characters/12%20-%20Rogue/sndMutant12Cptn.wav)
+> > > - [sndMutant12Crwn.wav](Player/Characters/12%20-%20Rogue/sndMutant12Crwn.wav)
+> > > - [sndMutant12Dead.wav](Player/Characters/12%20-%20Rogue/sndMutant12Dead.wav)
+> > > - [sndMutant12Hurt.wav](Player/Characters/12%20-%20Rogue/sndMutant12Hurt.wav)
+> > > - [sndMutant12IDPD.wav](Player/Characters/12%20-%20Rogue/sndMutant12IDPD.wav)
+> > > - [sndMutant12IDPDSpch.ogg](Player/Characters/12%20-%20Rogue/sndMutant12IDPDSpch.ogg)
+> > > - [sndMutant12LowA.wav](Player/Characters/12%20-%20Rogue/sndMutant12LowA.wav)
+> > > - [sndMutant12LowH.wav](Player/Characters/12%20-%20Rogue/sndMutant12LowH.wav)
+> > > - [sndMutant12Slct.wav](Player/Characters/12%20-%20Rogue/sndMutant12Slct.wav)
+> > > - [sndMutant12Spch.wav](Player/Characters/12%20-%20Rogue/sndMutant12Spch.wav)
+> > > - [sndMutant12Thrn.ogg](Player/Characters/12%20-%20Rogue/sndMutant12Thrn.ogg)
+> > > - [sndMutant12Valt.wav](Player/Characters/12%20-%20Rogue/sndMutant12Valt.wav)
+> > > - [sndMutant12Wrld.wav](Player/Characters/12%20-%20Rogue/sndMutant12Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/12%20-%20Rogue/Active) /
 > > > 
 > > > - [sndPortalStrikeEmpty.wav](Player/Characters/12%20-%20Rogue/Active/sndPortalStrikeEmpty.wav)
@@ -1181,84 +1198,68 @@
 > > > - [sndPortalStrikeFireButt.wav](Player/Characters/12%20-%20Rogue/Active/sndPortalStrikeFireButt.wav)
 > > > - [sndPortalStrikeLoop.wav](Player/Characters/12%20-%20Rogue/Active/sndPortalStrikeLoop.wav)
 > > > - [sndRogueAim.wav](Player/Characters/12%20-%20Rogue/Active/sndRogueAim.wav)
-> > > 
-> > - [sndMutant12Chst.wav](Player/Characters/12%20-%20Rogue/sndMutant12Chst.wav)
-> > - [sndMutant12Cnfm.wav](Player/Characters/12%20-%20Rogue/sndMutant12Cnfm.wav)
-> > - [sndMutant12Cptn.wav](Player/Characters/12%20-%20Rogue/sndMutant12Cptn.wav)
-> > - [sndMutant12Crwn.wav](Player/Characters/12%20-%20Rogue/sndMutant12Crwn.wav)
-> > - [sndMutant12Dead.wav](Player/Characters/12%20-%20Rogue/sndMutant12Dead.wav)
-> > - [sndMutant12Hurt.wav](Player/Characters/12%20-%20Rogue/sndMutant12Hurt.wav)
-> > - [sndMutant12IDPD.wav](Player/Characters/12%20-%20Rogue/sndMutant12IDPD.wav)
-> > - [sndMutant12IDPDSpch.ogg](Player/Characters/12%20-%20Rogue/sndMutant12IDPDSpch.ogg)
-> > - [sndMutant12LowA.wav](Player/Characters/12%20-%20Rogue/sndMutant12LowA.wav)
-> > - [sndMutant12LowH.wav](Player/Characters/12%20-%20Rogue/sndMutant12LowH.wav)
-> > - [sndMutant12Slct.wav](Player/Characters/12%20-%20Rogue/sndMutant12Slct.wav)
-> > - [sndMutant12Spch.wav](Player/Characters/12%20-%20Rogue/sndMutant12Spch.wav)
-> > - [sndMutant12Thrn.ogg](Player/Characters/12%20-%20Rogue/sndMutant12Thrn.ogg)
-> > - [sndMutant12Valt.wav](Player/Characters/12%20-%20Rogue/sndMutant12Valt.wav)
-> > - [sndMutant12Wrld.wav](Player/Characters/12%20-%20Rogue/sndMutant12Wrld.wav)
 > > 
 > > [13 - Big Dog](Player/Characters/13%20-%20Big%20Dog) /
 > > 
-> > - [sndMutant13Chst.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Chst.wav)
-> > - [sndMutant13Cnfm.ogg](Player/Characters/13%20-%20Big%20Dog/sndMutant13Cnfm.ogg)
-> > - [sndMutant13Cptn.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Cptn.wav)
-> > - [sndMutant13Crwn.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Crwn.wav)
-> > - [sndMutant13Dead.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Dead.wav)
-> > - [sndMutant13Hurt.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Hurt.wav)
-> > - [sndMutant13IDPD.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13IDPD.wav)
-> > - [sndMutant13LowA.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13LowA.wav)
-> > - [sndMutant13LowH.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13LowH.wav)
-> > - [sndMutant13Slct.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Slct.wav)
-> > - [sndMutant13Spch.ogg](Player/Characters/13%20-%20Big%20Dog/sndMutant13Spch.ogg)
-> > - [sndMutant13Thrn.ogg](Player/Characters/13%20-%20Big%20Dog/sndMutant13Thrn.ogg)
-> > - [sndMutant13Valt.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Valt.wav)
-> > - [sndMutant13Wrld.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Wrld.wav)
+> > > - [sndMutant13Chst.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Chst.wav)
+> > > - [sndMutant13Cnfm.ogg](Player/Characters/13%20-%20Big%20Dog/sndMutant13Cnfm.ogg)
+> > > - [sndMutant13Cptn.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Cptn.wav)
+> > > - [sndMutant13Crwn.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Crwn.wav)
+> > > - [sndMutant13Dead.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Dead.wav)
+> > > - [sndMutant13Hurt.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Hurt.wav)
+> > > - [sndMutant13IDPD.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13IDPD.wav)
+> > > - [sndMutant13LowA.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13LowA.wav)
+> > > - [sndMutant13LowH.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13LowH.wav)
+> > > - [sndMutant13Slct.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Slct.wav)
+> > > - [sndMutant13Spch.ogg](Player/Characters/13%20-%20Big%20Dog/sndMutant13Spch.ogg)
+> > > - [sndMutant13Thrn.ogg](Player/Characters/13%20-%20Big%20Dog/sndMutant13Thrn.ogg)
+> > > - [sndMutant13Valt.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Valt.wav)
+> > > - [sndMutant13Wrld.wav](Player/Characters/13%20-%20Big%20Dog/sndMutant13Wrld.wav)
 > > 
 > > [14 - Skeleton](Player/Characters/14%20-%20Skeleton) /
 > > 
+> > > - [sndMutant14Chst.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Chst.wav)
+> > > - [sndMutant14Cptn.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Cptn.wav)
+> > > - [sndMutant14Crwn.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Crwn.wav)
+> > > - [sndMutant14Dead.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Dead.wav)
+> > > - [sndMutant14Hurt.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Hurt.wav)
+> > > - [sndMutant14IDPD.wav](Player/Characters/14%20-%20Skeleton/sndMutant14IDPD.wav)
+> > > - [sndMutant14LowA.wav](Player/Characters/14%20-%20Skeleton/sndMutant14LowA.wav)
+> > > - [sndMutant14LowH.wav](Player/Characters/14%20-%20Skeleton/sndMutant14LowH.wav)
+> > > - [sndMutant14Spch.ogg](Player/Characters/14%20-%20Skeleton/sndMutant14Spch.ogg)
+> > > - [sndMutant14Thrn.ogg](Player/Characters/14%20-%20Skeleton/sndMutant14Thrn.ogg)
+> > > - [sndMutant14Turn.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Turn.wav)
+> > > - [sndMutant14Valt.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Valt.wav)
+> > > - [sndMutant14Wrld.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/14%20-%20Skeleton/Active) /
 > > > 
 > > > - [sndBloodGamble.wav](Player/Characters/14%20-%20Skeleton/Active/sndBloodGamble.wav)
 > > > - [sndGambleButt.wav](Player/Characters/14%20-%20Skeleton/Active/sndGambleButt.wav)
-> > > 
-> > - [sndMutant14Chst.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Chst.wav)
-> > - [sndMutant14Cptn.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Cptn.wav)
-> > - [sndMutant14Crwn.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Crwn.wav)
-> > - [sndMutant14Dead.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Dead.wav)
-> > - [sndMutant14Hurt.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Hurt.wav)
-> > - [sndMutant14IDPD.wav](Player/Characters/14%20-%20Skeleton/sndMutant14IDPD.wav)
-> > - [sndMutant14LowA.wav](Player/Characters/14%20-%20Skeleton/sndMutant14LowA.wav)
-> > - [sndMutant14LowH.wav](Player/Characters/14%20-%20Skeleton/sndMutant14LowH.wav)
-> > - [sndMutant14Spch.ogg](Player/Characters/14%20-%20Skeleton/sndMutant14Spch.ogg)
-> > - [sndMutant14Thrn.ogg](Player/Characters/14%20-%20Skeleton/sndMutant14Thrn.ogg)
-> > - [sndMutant14Turn.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Turn.wav)
-> > - [sndMutant14Valt.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Valt.wav)
-> > - [sndMutant14Wrld.wav](Player/Characters/14%20-%20Skeleton/sndMutant14Wrld.wav)
 > > 
 > > [15 - Frog](Player/Characters/15%20-%20Frog) /
 > > 
+> > > - [sndMutant15Chst.wav](Player/Characters/15%20-%20Frog/sndMutant15Chst.wav)
+> > > - [sndMutant15Cnfm.wav](Player/Characters/15%20-%20Frog/sndMutant15Cnfm.wav)
+> > > - [sndMutant15Cptn.wav](Player/Characters/15%20-%20Frog/sndMutant15Cptn.wav)
+> > > - [sndMutant15Crwn.wav](Player/Characters/15%20-%20Frog/sndMutant15Crwn.wav)
+> > > - [sndMutant15Dead.wav](Player/Characters/15%20-%20Frog/sndMutant15Dead.wav)
+> > > - [sndMutant15Hurt.wav](Player/Characters/15%20-%20Frog/sndMutant15Hurt.wav)
+> > > - [sndMutant15IDPD.wav](Player/Characters/15%20-%20Frog/sndMutant15IDPD.wav)
+> > > - [sndMutant15LowA.wav](Player/Characters/15%20-%20Frog/sndMutant15LowA.wav)
+> > > - [sndMutant15LowH.wav](Player/Characters/15%20-%20Frog/sndMutant15LowH.wav)
+> > > - [sndMutant15Slct.wav](Player/Characters/15%20-%20Frog/sndMutant15Slct.wav)
+> > > - [sndMutant15Spch.ogg](Player/Characters/15%20-%20Frog/sndMutant15Spch.ogg)
+> > > - [sndMutant15Thrn.ogg](Player/Characters/15%20-%20Frog/sndMutant15Thrn.ogg)
+> > > - [sndMutant15Valt.wav](Player/Characters/15%20-%20Frog/sndMutant15Valt.wav)
+> > > - [sndMutant15Wrld.wav](Player/Characters/15%20-%20Frog/sndMutant15Wrld.wav)
+> > > 
 > > > [Active](Player/Characters/15%20-%20Frog/Active) /
 > > > 
 > > > - [sndFrogLoop.wav](Player/Characters/15%20-%20Frog/Active/sndFrogLoop.wav)
 > > > - [sndFrogLoopButt.wav](Player/Characters/15%20-%20Frog/Active/sndFrogLoopButt.wav)
 > > > - [sndFrogStart.wav](Player/Characters/15%20-%20Frog/Active/sndFrogStart.wav)
 > > > - [sndFrogStartButt.wav](Player/Characters/15%20-%20Frog/Active/sndFrogStartButt.wav)
-> > > 
-> > - [sndMutant15Chst.wav](Player/Characters/15%20-%20Frog/sndMutant15Chst.wav)
-> > - [sndMutant15Cnfm.wav](Player/Characters/15%20-%20Frog/sndMutant15Cnfm.wav)
-> > - [sndMutant15Cptn.wav](Player/Characters/15%20-%20Frog/sndMutant15Cptn.wav)
-> > - [sndMutant15Crwn.wav](Player/Characters/15%20-%20Frog/sndMutant15Crwn.wav)
-> > - [sndMutant15Dead.wav](Player/Characters/15%20-%20Frog/sndMutant15Dead.wav)
-> > - [sndMutant15Hurt.wav](Player/Characters/15%20-%20Frog/sndMutant15Hurt.wav)
-> > - [sndMutant15IDPD.wav](Player/Characters/15%20-%20Frog/sndMutant15IDPD.wav)
-> > - [sndMutant15LowA.wav](Player/Characters/15%20-%20Frog/sndMutant15LowA.wav)
-> > - [sndMutant15LowH.wav](Player/Characters/15%20-%20Frog/sndMutant15LowH.wav)
-> > - [sndMutant15Slct.wav](Player/Characters/15%20-%20Frog/sndMutant15Slct.wav)
-> > - [sndMutant15Spch.ogg](Player/Characters/15%20-%20Frog/sndMutant15Spch.ogg)
-> > - [sndMutant15Thrn.ogg](Player/Characters/15%20-%20Frog/sndMutant15Thrn.ogg)
-> > - [sndMutant15Valt.wav](Player/Characters/15%20-%20Frog/sndMutant15Valt.wav)
-> > - [sndMutant15Wrld.wav](Player/Characters/15%20-%20Frog/sndMutant15Wrld.wav)
 > > > 
 > > > [Ultra B - Intimacy](Player/Characters/15%20-%20Frog/Ultra%20B%20-%20Intimacy) / [sndFrogB.wav](Player/Characters/15%20-%20Frog/Ultra%20B%20-%20Intimacy/sndFrogB.wav)
 > > > 
@@ -1271,15 +1272,15 @@
 > > 
 > > [16 - Cuz](Player/Characters/16%20-%20Cuz) /
 > > 
-> > - [sndMutant16Chst.wav](Player/Characters/16%20-%20Cuz/sndMutant16Chst.wav)
-> > - [sndMutant16Cptn.wav](Player/Characters/16%20-%20Cuz/sndMutant16Cptn.wav)
-> > - [sndMutant16Dead.wav](Player/Characters/16%20-%20Cuz/sndMutant16Dead.wav)
-> > - [sndMutant16Hurt.wav](Player/Characters/16%20-%20Cuz/sndMutant16Hurt.wav)
-> > - [sndMutant16IDPD.wav](Player/Characters/16%20-%20Cuz/sndMutant16IDPD.wav)
-> > - [sndMutant16LowA.wav](Player/Characters/16%20-%20Cuz/sndMutant16LowA.wav)
-> > - [sndMutant16Thrn.ogg](Player/Characters/16%20-%20Cuz/sndMutant16Thrn.ogg)
-> > - [sndMutant16Valt.wav](Player/Characters/16%20-%20Cuz/sndMutant16Valt.wav)
-> > - [sndMutant16Wrld.wav](Player/Characters/16%20-%20Cuz/sndMutant16Wrld.wav)
+> > > - [sndMutant16Chst.wav](Player/Characters/16%20-%20Cuz/sndMutant16Chst.wav)
+> > > - [sndMutant16Cptn.wav](Player/Characters/16%20-%20Cuz/sndMutant16Cptn.wav)
+> > > - [sndMutant16Dead.wav](Player/Characters/16%20-%20Cuz/sndMutant16Dead.wav)
+> > > - [sndMutant16Hurt.wav](Player/Characters/16%20-%20Cuz/sndMutant16Hurt.wav)
+> > > - [sndMutant16IDPD.wav](Player/Characters/16%20-%20Cuz/sndMutant16IDPD.wav)
+> > > - [sndMutant16LowA.wav](Player/Characters/16%20-%20Cuz/sndMutant16LowA.wav)
+> > > - [sndMutant16Thrn.ogg](Player/Characters/16%20-%20Cuz/sndMutant16Thrn.ogg)
+> > > - [sndMutant16Valt.wav](Player/Characters/16%20-%20Cuz/sndMutant16Valt.wav)
+> > > - [sndMutant16Wrld.wav](Player/Characters/16%20-%20Cuz/sndMutant16Wrld.wav)
 > 
 > [Footsteps](Player/Footsteps) /
 > 
@@ -1655,7 +1656,14 @@
 > > > > - [sndLightningShotgun.wav](Player/Weapons/Fire/Energy/Lightning/sndLightningShotgun.wav)
 > > > > - [sndLightningShotgunUpg.wav](Player/Weapons/Fire/Energy/Lightning/sndLightningShotgunUpg.wav)
 > > > > 
-> > > > [Melee](Player/Weapons/Fire/Energy/Melee) / [goto Melee folder](Player/Weapons/Fire/Energy/Melee/goto%20Melee%20folder)
+> > > > [Melee](Player/Weapons/Fire/Melee/Energy) /
+> > > > 
+> > > > - [sndEnergyHammer.wav](Player/Weapons/Fire/Melee/Energy/sndEnergyHammer.wav)
+> > > > - [sndEnergyHammerUpg.wav](Player/Weapons/Fire/Melee/Energy/sndEnergyHammerUpg.wav)
+> > > > - [sndEnergyScrewdriver.wav](Player/Weapons/Fire/Melee/Energy/sndEnergyScrewdriver.wav)
+> > > > - [sndEnergyScrewdriverUpg.wav](Player/Weapons/Fire/Melee/Energy/sndEnergyScrewdriverUpg.wav)
+> > > > - [sndEnergySword.wav](Player/Weapons/Fire/Melee/Energy/sndEnergySword.wav)
+> > > > - [sndEnergySwordUpg.wav](Player/Weapons/Fire/Melee/Energy/sndEnergySwordUpg.wav)
 > > > > 
 > > > > [Plasma](Player/Weapons/Fire/Energy/Plasma) /
 > > > > 
